@@ -1,0 +1,10 @@
+requests
+PyQt6
+cryptography
+numpy
+pandas
+reportlab
+openpyxl
+scikit-learn
+tensorflow  # Если требуется для ИИ анализа
+pytest  # Для тестирования
